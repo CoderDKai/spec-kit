@@ -1,0 +1,12 @@
+{
+  "name": "speckit",
+  "description": "An open source toolkit for Spec-Driven Development that allows you to focus on product scenarios and predictable outcomes",
+  "version": "1.0.0",
+  "author": {
+    "name": "GitHub",
+    "contributors": [
+      "Den Delimarsky (@localden)",
+      "John Lam (@jflam)"
+    ]
+  }
+}
